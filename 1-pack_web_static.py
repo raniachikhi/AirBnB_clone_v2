@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" The function do_pack that generates a .tgz archive
+""" This contains a function do_pack that generates a .tgz archive
   from the contents of the web_static folder (fabric script) """
 
 
